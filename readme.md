@@ -49,7 +49,7 @@ Copy code
 
 ## Demo
 
-![img](./ToDolist.js)
+![img](./ToDolist.png)
 
 
 ## 🧩 CRUD Breakdown
